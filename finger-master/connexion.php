@@ -12,7 +12,7 @@
 
                 $PARAM_utilisateur='phpmyadmin';
 
-                $PARAM_mot_passe='digital2018';
+                $PARAM_mot_passe='Dig1tal2018&';
                 
                 $this->connexion = new PDO(
                     'mysql:host='.$PARAM_hote.';dbname='.$PARAM_nom_bd,
