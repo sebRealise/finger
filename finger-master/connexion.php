@@ -8,7 +8,7 @@
 
                 $PARAM_port='3306';
 
-                $PARAM_nom_bd='MiniFacebook';
+                $PARAM_nom_bd='minifacebook';
 
                 $PARAM_utilisateur='phpmyadmin';
 
